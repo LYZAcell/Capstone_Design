@@ -44,3 +44,4 @@
 ### Textrank 및 summarization 1차(0515~)
 - 학사 textrank 및 이에따른 sentence graph, summarization 그리기 (0515)
   - sentence 그래프 알고리즘 다시 생각해보기 (문장이 아닌 공지가 다 나옴)
+- lovit님 textrank 함수 활용 및 okt, komoran 성능 비교 (0519)
