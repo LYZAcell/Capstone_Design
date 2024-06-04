@@ -44,7 +44,7 @@
 - 공지1 textrank 변수명 고쳐서 성공. 다만 연산시간이 너무 길어 추가 전처리 필요 (0508)
 - 1차 tf-idf 정리 코드 업로드 완료 -> for문으로 문장 돌려서 정방행렬 맞추는 것으로 방식 정정(0509)
 
-### Textrank 및 summarization 1차(0515~)
+### Textrank 및 summarization 1차(0515~0601)
 - 학사 textrank 및 이에따른 sentence graph, summarization 그리기 (0515)
   - sentence 그래프 알고리즘 다시 생각해보기 (문장이 아닌 공지가 다 나옴)
 - lovit님 textrank 함수 활용 및 okt, komoran 성능 비교 (0519)
@@ -54,3 +54,7 @@
 - 0529 외국어 filtering 구현 (한국어 0.3이하면 외국공지로 filter)
 - 0530 외국어 예외처리 및 return 개선 + 모델링 전 점검
 - 0602 fastapi 시범 및 okt에 불용어 처리 넣어보기
+
+
+### 배포 (0602~)
+- 0603 pickle 직렬화도전
