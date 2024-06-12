@@ -62,3 +62,4 @@
 - 0607 1차 200ok 및 api 작동여부 확인 완료
 - 0609 코드 class로 정리 및 rouge 평가 스터디
 - 0610 rouge 분석 _ ngram, rouge-L 및 reference문장 기준 선정.
+- 0612 pyrouge 다운 및 rouge-u 해보기
