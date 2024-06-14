@@ -64,3 +64,5 @@
 - 0610 rouge 분석 _ ngram, rouge-L 및 reference문장 기준 선정.
 - 0612 pyrouge 다운 및 rouge-u 해보기
 - 0613 testcase 및 json 예외처리
+- 0614 return 개선 및 stopwords 클래스 내장화
+  - aws 배포 스터디
