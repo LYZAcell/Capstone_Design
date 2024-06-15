@@ -65,4 +65,4 @@
 - 0612 pyrouge 다운 및 rouge-u 해보기
 - 0613 testcase 및 json 예외처리
 - 0614 return 개선 및 stopwords 클래스 내장화
-  - aws 배포 스터디
+  - aws 배포 스터디 (0615)
