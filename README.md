@@ -66,3 +66,4 @@
 - 0613 testcase 및 json 예외처리
 - 0614 return 개선 및 stopwords 클래스 내장화
   - aws 배포 스터디 (0615)
+ -0616 중요키워드 가중치 올리기 + 정적 IP 
